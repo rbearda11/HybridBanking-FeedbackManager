@@ -1,7 +1,7 @@
 //FILL THESE OUT WITH YOUR OWN VALUES
 //You can find these by clicking Show Credentials under IBM Push Notificaitons in your mobile backend dashboard.
-var IBMPushNotifications_url = "http://imfpush.ng.bluemix.net/imfpush/v1/apps/ef51db73-87a1-421d-92d1-fce67ffec9c0";
-var IBMPushNotifications_appSecret  = "485d856d-ceae-4c4d-813d-b24ea271ef5f";
+var IBMPushNotifications_url = "http://imfpush.eu-gb.bluemix.net/imfpush/v1/apps/f0cf0245-db1d-4496-b9dd-d9c25161791e";
+var IBMPushNotifications_appSecret  = "60a83275-37cf-4c18-b087-0f5210057f50";
 
 
 var express = require('express'),
