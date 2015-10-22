@@ -6,7 +6,7 @@ var IBMPushNotifications_appSecret  = "485d856d-ceae-4c4d-813d-b24ea271ef5f";
 
 var express = require('express'),
     cors = require('cors'),
-    bodyParser = require("body-parser"),
+    bodyParser = requir e("body-parser"),
     bluemix   = require('./config/bluemix'),
     extend    = require('util')._extend,
     watson = require('watson-developer-cloud'),
